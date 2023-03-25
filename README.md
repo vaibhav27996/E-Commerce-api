@@ -33,5 +33,3 @@
   for **delete** product url - http://localhost:3000/api/v1/products/delete-product/641ee67315855a1d2bda6095 <---- Product id
   
   ![Delete](https://user-images.githubusercontent.com/119880818/227717387-b397b024-b0f6-4012-a58e-37df03775820.PNG)
-
-  
